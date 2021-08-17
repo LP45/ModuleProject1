@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+.flex1 > span{
+    flex-direction: column;
+    align-items: center;
+}
+.flex2 > span{
+    flex-direction: column;
+    align-items: center;
+}
